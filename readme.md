@@ -1,8 +1,8 @@
 # IntentApp-Versi 2
 
-Nama            : Nadya Khairunnisa
+Nama            : RAMDANI
 
-NIM             : 312210133
+NIM             : 311910595
 
 Kelas           : TI.22.A.1
 
